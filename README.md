@@ -35,3 +35,4 @@ This firmware can render your device unbootable! Use it only if you are aware of
 * Added EXT4 kernel module and swap support
 * Added script for installing Entware application repository
 * Added script "adblock_update", for updating the list of advertising domains
+PS C:\Users\yahya\OneDrive\Documents\GitHub\Huawei_E5372_mod_fw> http://www.huaweimobilewifi.com/html/home.html
